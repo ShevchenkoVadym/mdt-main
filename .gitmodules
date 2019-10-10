@@ -1,0 +1,6 @@
+[submodule "www/mdt-js"]
+	path = www/mdt-js
+	url = https://github.com/ShevchenkoVadym/mdt-js.git
+[submodule "www/mdt-css"]
+	path = www/mdt-css
+	url = https://github.com/ShevchenkoVadym/mdt-css.git
